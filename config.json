@@ -1,11 +1,11 @@
 {
-  "username": "Jenesyx",
-  "name": "Arta Bidkhori",
-  "role": "Full-stack developer and AI automation builder",
-  "location": "Germany · from Tehran",
-  "status": "Building products that turn ambitious ideas into useful systems.",
-  "website": "https://artabidkhori.com",
-  "focus": "AI agents · Next.js · product design",
-  "skills": ["Next.js", "TypeScript", "Python", "n8n", "Figma", "Solidity"],
+  "username": "Amir-Falahati",
+  "name": "Amir Falahati",
+  "role": "DevOps and MLOps Developer and data scientist ",
+  "location": "Iran · from Shiraz",
+  "status": "Turning data into intelligent, scalable solutions through Data Science, AI, and cloud-native technologies.",
+  "website": "",
+  "focus": "AI agents · Data Science · Cloud Computing . Machine learning Operation",
+  "skills": ["Python"],
   "featured_repos": ["Zeropoint-website", "Jenesyx-Website", "TodoList", "404Error-page"]
 }
